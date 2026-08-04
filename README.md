@@ -1,4 +1,4 @@
-# Appliance Export Deal OS
+﻿# Appliance Export Deal OS
 
 > 立式烤箱与烟机外贸客户开发成交 Skill 体系
 
@@ -162,7 +162,7 @@ CC/
     │       ├── risk-checklist.md
     │       └── pricing-rules.md
     │
-    ├── references/                    # 规则参考 (9个文件)
+    ├── references/                    # 规则参考 (10个文件)
     │   ├── security-classification.md # 安全与信息分级
     │   ├── sales-methodology.md       # 销售方法论
     │   ├── outreach-rules.md          # 个性化触达规则
@@ -171,7 +171,8 @@ CC/
     │   ├── risk-rules.md              # 风险检查规则
     │   ├── negotiation-rules.md       # 谈判与异议处理
     │   ├── follow-up-engine.md        # 智能跟进引擎
-    │   └── pricing-engine.md          # 定价规则引擎
+    │   ├── pricing-engine.md          # 定价规则引擎
+    │   └── customs-data-guide.md      # 海关数据应用指南
     │
     ├── templates/                     # 输入输出模板 (7个)
     │   ├── company-profile.json       # 企业档案模板
